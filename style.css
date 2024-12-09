@@ -1,0 +1,141 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+#navigation {
+	background-color: #7e0f0f;
+}
+#header {
+	padding-top: 80px;
+  	padding-right: 50px;
+  	padding-bottom: 80px;
+  	padding-left: 50px;
+	background-image: url('confetti.png'); 
+}
+
+#venues{
+	padding-top: 40px;
+  	padding-right: 50px;
+  	padding-bottom: 30px;
+  	padding-left: 40px;
+}
+
+#attractions{
+	padding-top: 40px;
+  	padding-right: 50px;
+  	padding-bottom: 30px;
+  	padding-left: 40px;
+}
+
+#outfits{
+	padding-top: 40px;
+  	padding-right: 50px;
+  	padding-bottom: 30px;
+  	padding-left: 40px;
+}
+
+#essentials{
+	padding-top: 40px;
+  	padding-right: 50px;
+  	padding-bottom: 30px;
+  	padding-left: 40px;
+}
+
+#setlists{
+	padding-top: 40px;
+  	padding-right: 50px;
+  	padding-bottom: 30px;
+  	padding-left: 40px;
+}
+
+.navbar-brand {
+	color: white;
+} 
+
+.nav-link {
+	color: white;
+}
+
+.nav-item {
+	font-family: "Domine", serif;
+  	font-weight: 100;
+  	font-style: normal;
+  	color: #F9F8F8;
+} 
+
+.btn-primary {
+      background-color: #7E7F9A; 
+      border-color: #7E7F9A;      
+      color: #F9F8F8;               
+    }
+
+.btn-primary:hover {
+      background-color: #7e0f0f;  
+      border-color: #7e0f0f;      
+    }
+
+.card{
+	background-color: #F3DE8A;
+}
+
+.bodycopy{ 
+	font-family: "Domine", serif;
+  	font-size: 18px;
+  	font-weight: 100;
+  	font-style: normal;
+  	color: #272838
+ } 
+
+.fa-brands.fa-instagram{
+	color: #272838;
+}
+
+.link{
+	font-family: "Domine", serif;
+  	font-size: 18px;
+  	font-weight: 100;
+  	font-style: normal;
+  	color: #7e0f0f;
+}
+
+h1 { 
+  font-family: "Freeman", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  font-size: 72px;
+  color: #F9F8F8;
+ } 
+
+ h2 {
+ 	font-family: "Freeman", sans-serif;
+  	font-weight: 100;
+  	font-style: normal;
+  	font-size: 32px;
+  	color: #7e0f0f;
+ }
+
+h3 {
+ 	font-family: "Freeman", sans-serif;
+  	font-weight: 100;
+  	font-style: normal;
+  	font-size: 22px;
+  	color: #272838;
+ }
+
+ p{ 
+	font-family: "Domine", serif;
+  	font-size: 15px;
+  	font-weight: 100;
+  	font-style: normal;
+  	color: #272838
+ }
+
+li{
+	font-family: "Domine", serif;
+  	font-weight: 100;
+  	font-style: normal;
+  	color: #272838;
+} 
+
+footer{
+	background-color: #F3DE8A;
+	text-align: center; 
+	font-size: 32px;
+}
